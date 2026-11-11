@@ -1,16 +1,33 @@
-## Hi there 👋
+# Opa, eu sou o João ☕
 
-<!--
-**SrDk19/SrDk19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação na UNIP | Desenvolvedor Web  
+Buscando oportunidade de estágio em Desenvolvimento de Software/Web.
 
-Here are some ideas to get you started:
+## Sobre mim 👤
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ☕ Java e JavaScript são as linguagens nas quais mais me identifico
+- 🌐 Base sólida em desenvolvimento web (HTML5, CSS3) e lógica de programação
+- 🗄️ Experiência com banco de dados MySQL
+- 🔧 Utilizo Git, Pandas, modelagem UML e fundamentos de redes
+- 💼 Disciplinado com prazos, adaptável e com boa comunicação
+
+## Estou aprendendo agora 🖊️
+
+- Aprofundamento em desenvolvimento web (front-end e back-end)
+- Boas práticas de versionamento com Git
+- Evolução contínua como desenvolvedor
+
+## Tecnologias 💻
+
+`Java` `JavaScript` `HTML5` `CSS3` `MySQL` `Git` `Pandas` `Python`
+
+## Formação 🎓
+
+- **Bacharelado em Ciência da Computação** — Universidade Paulista (UNIP)  
+  02/2024 – 12/2027
+- **Ensino Médio** — Centro de Ensino Médio Setor Oeste  
+  2020 – 2023
+
+## Projetos 📊
+
+Alguns dos meus projetos acadêmicos estão disponíveis nos repositórios fixados no perfil (APS, sistemas com verificação e biometria, PetLover, etc.).
