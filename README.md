@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,100:7c3aed&height=220&section=header&text=João%20☕&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ciência%20da%20Computação%20•%20Desenvolvimento%20Web&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,100:7c3aed&height=220&section=header&text=João%20&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ciência%20da%20Computação%20•%20Desenvolvimento%20Web&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
-<br># Opa, eu sou o João ☕
+<br>Opa, eu sou o João ☕
 
 Estudante de Ciência da Computação na UNIP | Desenvolvedor Web  
 Buscando oportunidade de estágio em Desenvolvimento de Software/Web.
